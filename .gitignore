@@ -1,0 +1,11 @@
+# testing
+/coverage
+
+# dependencies
+/node_modules
+
+# misc
+.DS_Store
+
+.env
+*.env.json
